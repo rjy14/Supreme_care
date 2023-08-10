@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27516201510",
+    "project_id": "supremecare01-97424",
+    "storage_bucket": "supremecare01-97424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27516201510:android:d223f9d62527c67b8fd4e7",
+        "android_client_info": {
+          "package_name": "com.example.supreme_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27516201510-8ee1hjtfcfg9le53ddm7d28b5igp2cne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfR7W4AnL8utFrCJ8pJSocZ9Mp8KQlSpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27516201510-8ee1hjtfcfg9le53ddm7d28b5igp2cne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
